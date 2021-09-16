@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello I`m Mohammad Arfan Nur Rahman
-1I'm currently interested in learning React Jatice and its environment
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=marfanr)](https://github.com/ryo-ma/github-profile-trophy)
 
