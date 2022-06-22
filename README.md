@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marfanr)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=marfanr)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+![Marfanr's GitHub stats](https://github-readme-stats.vercel.app/api?username=marfanr&show_icons=true&theme=tokyonight)
+
 
