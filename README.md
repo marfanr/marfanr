@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=marfanr)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfanr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfanr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Marfanr's GitHub stats](https://github-readme-stats.vercel.app/api?username=marfanr&show_icons=true&theme=tokyonight)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marfanr)](https://github.com/anuraghazra/github-readme-stats)
