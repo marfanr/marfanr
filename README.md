@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Mohammad Arfan
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marfanr" alt="marfanr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -8,3 +7,5 @@
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfanr)](https://github.com/marfanr)
