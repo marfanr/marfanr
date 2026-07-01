@@ -8,8 +8,6 @@
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-![marfanr's Stats](https://github-readme-stats.vercel.app/api?username=marfanr&theme=dark&show_icons=true&hide_border=false&count_private=false)
-
-![marfanr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marfanr&theme=dark&hide_border=false)
-
-![marfanr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marfanr&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=marfanr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=marfanr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=marfanr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
